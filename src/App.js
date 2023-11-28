@@ -68,7 +68,7 @@ const App = () => {
       <History history={history} moveTo={moveTo} currentMove={currentMove} />
       <div className="bg-balls" />
       <div className='footer'>
-        Made with ❤️ by Viraj Hole
+        Made with by  ❤️ Viraj Hole ❤️
       </div>
     </div>
   );
